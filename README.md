@@ -31,38 +31,41 @@ Ce pipeline permet de passer de données brutes non structurées à des indicate
 
 # 🛠️ Technologies utilisées
 
-Python – développement du pipeline
+- Python – développement du pipeline
 
-Selenium – web scraping dynamique de Google Maps
+- Selenium – web scraping dynamique de Google Maps
 
-Pandas & NLTK – nettoyage, normalisation et prétraitement des textes
+- Pandas & NLTK – nettoyage, normalisation et prétraitement des textes
 
-TextBlob – analyse de sentiment quantitative
+- TextBlob – analyse de sentiment quantitative
 
-IA Générative (Gemini API) – extraction d’expressions clés positives et négatives
+- IA Générative (Gemini API) – extraction d’expressions clés positives et négatives
 
-Power BI – tableaux de bord décisionnels
+- Power BI – tableaux de bord décisionnels
 
-Streamlit – application web interactive
+- Streamlit – application web interactive
 
 # ⚙️ Fonctionnalités principales
 
-Collecte automatique de milliers d’avis clients
+- Collecte automatique de milliers d’avis clients
+- Normalisation des notes, dates et fourchettes de prix
+- Calcul du sentiment moyen par restaurant
+- Extraction des aspects clés mentionnés par les clients (service, prix, qualité, ambiance…)
+- Analyse comparative par ville et par niveau de satisfaction
+- Exploration interactive des données via filtres et visualisations
 
-Normalisation des notes, dates et fourchettes de prix
+# 📊 Outils de visualisation
 
-Calcul du sentiment moyen par restaurant
-
-Extraction des aspects clés mentionnés par les clients (service, prix, qualité, ambiance…)
-
-Analyse comparative par ville et par niveau de satisfaction
-
-Exploration interactive des données via filtres et visualisations
-
-📊 Outils de visualisation
-
-Power BI
+- Power BI:
 Offre une vue synthétique orientée décision avec des KPIs, des graphiques temporels et une cartographie des restaurants.
 
-Streamlit
+- Streamlit:
 Permet une exploration approfondie des données : filtrage par ville, prix ou satisfaction, analyse des avis et des expressions clés issues de l’IA.
+
+# 🚀 Valeur ajoutée
+
+Ce projet démontre la capacité à :
+-Construire une solution Data end-to-end
+-Travailler avec des données réelles, volumineuses et non structurées
+-Combiner NLP classique et IA générative
+-Transformer des avis clients en leviers d’amélioration concrets
