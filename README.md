@@ -62,6 +62,22 @@ Offre une vue synthétique orientée décision avec des KPIs, des graphiques tem
 - Streamlit:
 Permet une exploration approfondie des données : filtrage par ville, prix ou satisfaction, analyse des avis et des expressions clés issues de l’IA.
 
+## 📸 Demo
+
+### 🖥️ Streamlit
+
+<p align="center">
+  <img src="screenshots/streamlit_1.png" width="48%">
+  <img src="screenshots/streamlit_2.png" width="48%">
+</p>
+
+### 📊 Power BI
+
+<p align="center">
+  <img src="screenshots/powerbi_1.png" width="48%">
+  <img src="screenshots/powerbi_2.png" width="48%">
+</p>
+
 # 🚀 Valeur ajoutée
 
 Ce projet démontre la capacité à :
